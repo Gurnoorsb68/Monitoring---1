@@ -1,18 +1,9 @@
-# Project Name
+# MONITORING SYSTEM
 
 ## Description
 
 This project provides a monitoring solution using Telegraf, InfluxDB, and Grafana. It includes Dockerfiles for each component and a Docker-compose file for easy deployment.
 
-## Table of Contents
-
-- [Installation](#installation)
-- [Configuration](#configuration)
-- [Usage](#usage)
-- [Monitoring Setup](#monitoring-setup)
-- [Docker Files](#docker-files)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
